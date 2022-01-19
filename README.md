@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrItzreal
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: Comment Section
