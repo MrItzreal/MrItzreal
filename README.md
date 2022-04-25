@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrItzreal
+- 👋 Hi, I’m Israel Santana
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on Projects
