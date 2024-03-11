@@ -1,2 +1,5 @@
-<a href="https://app.daily.dev/mritzreal"><img src="https://api.daily.dev/devcards/v2/n5Svp5Zegegx5jgTJC3qN.png?r=zvn&type=default" width="356" alt="Israel Santana's Dev Card"/></a>
-- 👋 Hi, I’m Israel Santana. - 👀 I’m interested in Full Stack Development. - 🌱 I’m currently learning HTML, CSS & JavaScript. - 💞️ I’m looking to collaborate on Projects. - 📫 How to reach me: Comment Section. <!--- MrItzreal/MrItzreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+<p>👋 Hi, I’m Israel Santana.</p>
+<p>👀 I’m interested in Full Stack Development.</p>
+<p>🌱 I’m currently learning HTML, CSS & JavaScript. </p>    
+<p> 💞️ I’m looking to collaborate on Projects. </p> 
+<p> 📫 How to reach me: Comment Section. </p> 
