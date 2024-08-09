@@ -5,7 +5,6 @@ Aspiring web developer documenting my journey to land my first software engineer
 
 *   🌍  I'm based in United States.
 *   🚀  I'm currently working on [Nissan Experience](https://vimeo.com/995448515).
-*   🧠  I'm learning React/Node/Express/PSQL/Tailwind CSS.
 *   🤝  I'm open to collaborating on Projects.
 *   ⚡  I'm open to learning new technologies as needed.
   ### Current Tech Stack: 
