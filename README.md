@@ -4,7 +4,7 @@ Hi 👋 My name is Israel Santana but you can call me "Izzy"
 Aspiring web developer documenting my journey to land my first software engineering role.
 
 *   🌍  I'm based in United States.
-*   🚀  I'm currently working on [Nissan Experience](http://nissan-experience.netlify.app/).
+*   🚀  I'm currently working on [Nissan Experience](https://vimeo.com/995448515).
 *   🧠  I'm learning React/Node/Express/PSQL/Tailwind CSS.
 *   🤝  I'm open to collaborating on Projects.
 *   ⚡  I'm open to learning new technologies as needed.
