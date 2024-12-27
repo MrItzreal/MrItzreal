@@ -1,7 +1,7 @@
 Hi 👋 My name is Israel Santana but you can call me "Izzy"
 ==========================================================
 
-I'm an aspiring software engineer documenting my journey to landing my first SWE role.
+I'm a software engineer documenting my journey to landing my first SWE role.
 
 *   🌍  Based in United States.
 *   🚀  Project Demonstration: [Nissan Experience](https://vimeo.com/995448515).
