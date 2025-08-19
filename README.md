@@ -3,7 +3,7 @@ Hi 👋 My name is Israel Santana but you can call me "Izzy"
 
 
 *   🌍  Based in New York City.
-*   🚀  Project Demonstration: [Chatter](https://vimeo.com/1054677305).
+*   🚀  Project Demonstration: [Property Management Portal](https://vimeo.com/1097012076).
 *   ⚡   Open to learning new technologies.
 *   🗣️  Fluent in both Spanish and English.
   ### Current Tech Stack: 
