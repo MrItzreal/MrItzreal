@@ -6,7 +6,6 @@ My name is Israel Santana but you can call me "Izzy"
 *   Personal Website: [Call Me Izzy](https://www.callmeizzy.dev/).
 *   Project Demonstration: [Property Management Portal](https://vimeo.com/1097012076).
 *   MCP Presentation: [Crash Course in MCP](https://www.youtube.com/watch?v=jgMOypYls6s).
-*   Open to learning new technologies.
 *   Fluent in both Spanish and English.
   ### Current Tech Stack: 
 <p align="left">
