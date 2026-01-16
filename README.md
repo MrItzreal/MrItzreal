@@ -4,7 +4,7 @@ My name is Israel Santana but you can call me "Izzy"
 
 *   Based in New York City.
 *   Personal Website: [Call Me Izzy](https://www.callmeizzy.dev/).
-*   Project Demonstration: [Property Management Portal](https://vimeo.com/1097012076).
+*   Project Demonstration: [AI Public Speaking Coach](https://vimeo.com/1154729153?share=copy&fl=sv&fe=ci).
 *   MCP Presentation: [Crash Course in MCP](https://www.youtube.com/watch?v=jgMOypYls6s).
 *   Fluent in both Spanish and English.
   ### Current Tech Stack: 
