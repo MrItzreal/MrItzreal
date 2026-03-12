@@ -4,7 +4,7 @@ My name is Israel Santana but you can call me "Izzy"
 
 *   Based in New York City.
 *   Personal Website: [Call Me Izzy](https://www.callmeizzy.dev/).
-*   Project Demonstration: [AI Public Speaking Coach](https://youtu.be/gFv7oUggZ3c?si=-Hb9yuUoedsa_Uy0).
+*   Project Demonstrations: [AI Public Speaking Coach](https://youtu.be/gFv7oUggZ3c?si=-Hb9yuUoedsa_Uy0) & [Property Management Software](https://www.youtube.com/watch?v=9uasWWF-qTU).
 *   MCP Presentation: [Crash Course in MCP](https://www.youtube.com/watch?v=jgMOypYls6s).
 *   Fluent in both Spanish and English.
   ### The Izzy Stack: 
