@@ -6,6 +6,7 @@ My name is Israel Santana but you can call me "Izzy"
 *   Personal Website: [Call Me Izzy](https://www.callmeizzy.dev/).
 *   Project Demonstrations: [AI Public Speaking Coach](https://youtu.be/gFv7oUggZ3c?si=-Hb9yuUoedsa_Uy0) & [Property Management Software](https://www.youtube.com/watch?v=9uasWWF-qTU).
 *   MCP Presentation: [Crash Course in MCP](https://www.youtube.com/watch?v=jgMOypYls6s).
+*   Podcast: [Building a Developer Career with Community & AI](https://globaledgemarkets.com/globaledgetalk/from-code-coffee-to-ai-ethics-community-creativity-and-careers/).
 *   Fluent in both Spanish and English.
   
 ### The Izzy Stack:
